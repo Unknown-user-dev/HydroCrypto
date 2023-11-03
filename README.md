@@ -1,4 +1,7 @@
 # 🌐 Hydro Crypto
+![NPM](https://img.shields.io/npm/v/hydrocrypto?style=for-the-badge)
+![Github Stars](https://img.shields.io/github/stars/Unknown-user-dev/HydroCrypto?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/Unknown-user-dev/HydroCrypto?style=for-the-badge)
 
 ## 📝 Features
 
