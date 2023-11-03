@@ -10,7 +10,7 @@
     "test": "node ./crypto-utilities.js"
   },
   "keywords": [],
-  "author": "Unknown-user-dev",
+  "author": "unknown-user-dev",
   "license": "ISC",
   "dependencies": {
     "crypto": "^1.0.1",
